@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://ruman-dangol.herokuapp.com/" target="_blank"><img src="https://github.com/gol-danRuman/gol-danRuman/raw/master/rums.png" width="100%"></a>
+  <a href="https://ruman-dangol.herokuapp.com/" target="_blank"><img src="https://github.com/gol-danRuman/gol-danRuman/raw/master/rums.jpg" width="100%"></a>
 </p>
 
 ### Hi there 👋
