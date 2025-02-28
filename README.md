@@ -55,8 +55,7 @@
 
 |  <a href="https://gol-danRuman.github.io/"><img src="https://avatars.githubusercontent.com/u/16134514?v=4" width="150px" height="150px" /></a> |
 |:---------------------------------------------------------------------------------------------------------------------------------------: |
-|       **[Ruman Dangol](https://ruman-dangol.herokuapp.com/)**                                                                                |
-|<a href="mailto:rumancha12@gmail.com" target="_blank"><img src="https://image.flaticon.com/icons/svg/2991/2991144.svg" width="16px" height="16px"></a> <a href="https://www.linkedin.com/in/ruman-dangol-013b0111a/"><img src="https://image.flaticon.com/icons/svg/174/174857.svg" width="16px" height="16px"></a> <a href="https://github.com/gol-danRuman"><img src="https://image.flaticon.com/icons/svg/2111/2111425.svg" width="16px" height="16px"></a> <a href="https://www.facebook.com/ruman.dangol.3/"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" width="16px" height="16px"></a>|
+|       **[Ruman Dangol](https://ruman-dangol.herokuapp.com/)**                                          
 
 
 <!--
